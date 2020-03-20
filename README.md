@@ -15,8 +15,7 @@ Chart data sourced from [2019 Novel Coronavirus COVID-19 \(2019-nCoV\) Data Repo
 ### Days Since 100 Cases Per Country
 ![Days Since 100 Cases Per Country](/Days%20Since%20100%20Cases.png)
 
-### Days Since 100 Cases Per Country
-**Days Since 100 Cases Per 1,000,000 (1M) People Per Country** 
+### Days Since 100 Cases Per 1,000,000 (1M) People Per Country
 ![Days Since 100 Cases Per 1,000,000 (1M) People Per Country](/Days%20Since%20100%20Cases%20Per%201,000,000%20(1m)%20People.png)
 
 # Deaths
