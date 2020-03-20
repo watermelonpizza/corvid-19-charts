@@ -10,23 +10,23 @@ Chart data sourced from [2019 Novel Coronavirus COVID-19 \(2019-nCoV\) Data Repo
 
 # Cases
 ### Cases Per Country
-![Cases Per Country](/Cases.png)
+![Cases Per Country](/cases.png)
 
 ### Days Since 100 Cases Per Country
-![Days Since 100 Cases Per Country](/Days%20Since%20100%20Cases.png)
+![Days Since 100 Cases Per Country](/cases_days_since.png)
 
 ### Days Since 100 Cases Per 1,000,000 (1M) People Per Country
-![Days Since 100 Cases Per 1,000,000 (1M) People Per Country](/Days%20Since%20100%20Cases%20Per%201,000,000%20(1m)%20People.png)
+![Days Since 100 Cases Per 1,000,000 (1M) People Per Country](/cases_days_since_by_population.png)
 
 # Deaths
 ### Deaths Per Country
-![Cases Per Country](/Cases.png)
+![Deaths Per Country](/deaths.png)
 
 ### Days Since 1 Death Per Country
-![Days Since 1 Death Per Country](/Days%20Since%201%20Death.png)
+![Days Since 1 Death Per Country](/deaths_days_since.png)
 
 ### Days Since 1 Death Per 1,000,000 (1M) People Per Country
-![Days Since 1 Death Per 1,000,000 (1M) People Per Country](/Days%20Since%201%20Death%20Per%201,000,000%20(1m)%20People.png)
+![Days Since 1 Death Per 1,000,000 (1M) People Per Country](/deaths_days_since_by_population.png)
 
 # Australia State Breakdown and Trend
-![Cases Per Country](/Australian%20State%20Totals.png)
+![Cases Per Country](/australia_totals.png)
