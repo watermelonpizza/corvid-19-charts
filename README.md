@@ -29,4 +29,8 @@ Chart data sourced from [2019 Novel Coronavirus COVID-19 \(2019-nCoV\) Data Repo
 ![Days Since 1 Death Per 1,000,000 (1M) People Per Country](/deaths_days_since_by_population.png)
 
 # Australia State Breakdown and Trend
-![Cases Per Country](/australia_totals.png)
+### Cases
+![Cases Per State](/australia_totals.png)
+
+### Deaths
+![Deaths Per State](/australia_totals_deaths.png)
