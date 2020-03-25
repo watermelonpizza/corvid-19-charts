@@ -6,7 +6,7 @@ Chart data sourced from [2019 Novel Coronavirus COVID-19 \(2019-nCoV\) Data Repo
 
 *Note: The following links point to the latest commit so will be updated dynamically, sometimes github can take a few minutes to update, if they aren't updating for you and the repo has been updated, you might have to go directly to the url and refresh manually*
 
-**All horizontal lines represent a doubling of cases/deaths, these are all log(2) graphs**
+**All horizontal lines represent a doubling of cases/deaths, these are all log(10) graphs**
 
 # Cases
 ### Cases Per Country
